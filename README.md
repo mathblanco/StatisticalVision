@@ -18,7 +18,7 @@ This repository represents an initial step toward that framework, exploring clus
 - RGB or Lab color space, optional pixel position
 - Groups drawn as outlines, points or a color mask
 
-## Run
+## How to use it
 
 ```bash
 git clone https://github.com/mathblanco/mathblanco.git
