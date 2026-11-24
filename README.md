@@ -7,6 +7,9 @@ Streamlit app that applies cluster analysis to the pixels of a photo and draws t
 ## Idea
 
 Cluster analysis is a multivariate statistical technique that groups observations by similarity, without labels (Hair et al., 1998). In an image, each pixel is an observation described by its color (RGB or Lab) and, optionally, its position (x, y). Clustering pixels reveals dominant colors and regions, which is useful in computer vision for segmentation and pattern detection.
+The broader goal of this project is to evolve an image recognition framework, providing a foundation for identifying visual patterns and grouping similar image elements through statistics techniques.
+This repository represents an initial step toward that framework, exploring clustering methods as a foundation for more advanced image analysis capabilities.
+
 
 ## Features
 
