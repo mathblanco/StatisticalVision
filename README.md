@@ -22,7 +22,7 @@ This repository represents an initial step toward that framework, exploring clus
 
 ```bash
 git clone https://github.com/mathblanco/mathblanco.git
-cd mathblanco/image-clustering
+cd mathblanco/StatisticalVision
 pip install -r requirements.txt
 streamlit run app.py
 ```
